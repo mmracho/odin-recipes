@@ -1,0 +1,10 @@
+.img-main {
+  height: auto;
+  width: 300px;
+}
+
+.section-container {
+  background-color: yellow;
+  border: 2px solid black;
+  border-radius: 10px;
+}
